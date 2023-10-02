@@ -41,3 +41,11 @@ body {
     opacity: 1;
   }
 }
+.skills-card a {
+  text-decoration: none;
+  color: black;
+  font-size: 23px;
+}
+.skills-card a:hover {
+  color: rgba(255, 0, 0, 0.938);
+}

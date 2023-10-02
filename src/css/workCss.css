@@ -1,0 +1,7 @@
+.graphic-container {
+  margin-bottom: 2rem;
+}
+.graphic-container .col .card {
+  margin-bottom: 2rem;
+  border-radius: 10px;
+}

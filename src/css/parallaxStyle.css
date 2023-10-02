@@ -85,14 +85,14 @@ html {
   font-size: 25px;
   letter-spacing: 10px;
 }
-.ENTER-SITE a {
+.caption-title .enter-site a {
   color: rgb(255, 255, 255);
 }
-.ENTER-SITE a:link {
+.caption-title .enter-site a:link {
   text-decoration: none;
 }
-.ENTER-SITE a:hover {
-  color: #0080ff;
+.caption-title .enter-site a:hover {
+  color: rgba(255, 0, 0, 0.938);
 }
 .ENTER-SITE {
   font-family: "kanit";
